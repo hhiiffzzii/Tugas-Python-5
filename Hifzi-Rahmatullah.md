@@ -1,4 +1,4 @@
-# Tugas-Python-4
+# Tugas-Python-5
 
 Mempraktikkan setiap tema pada video yang telah diberikan menggunakan VS Code menggunakan bahasa pemrograman Python. Tema yang diberikan diantaranya :
 - Aplikasi Terbilang
